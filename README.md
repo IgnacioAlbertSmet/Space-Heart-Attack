@@ -33,7 +33,9 @@ Early prototype:
 * Bluetooth HC-05 module
 * Green, Orange and Red LEDs controlled by the smartphone
 
-## Mobile App
+## Digital processing???
+
+## Game App
 
 ADAPTAR TODO:::
 Main features:
