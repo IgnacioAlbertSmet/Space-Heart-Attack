@@ -4,11 +4,7 @@ Space Heart Attack is part of a class project which aims at using an individual'
 
 ## Motivations
 
-
-ADAPTAR: In the upcoming years, Singapore’s age average is expected to increase faster than that of any other nation. The aging population poses a serious sustainability challenge. Yet, MUCHA GENTE ESTA RETIRADA Y NO TRABAJA, DE LOS CUALES UN PORCENTAJE IMPORTANTE QUIERE TRABAJAR (53% no quiere, 25% si y ya trabaja, 22% si pero no trabaja), either because they NO TIENEN LAS HERRAMIENTAS PARA CONSEGUIR UN TRABAJO O NO LO QUE SEA.
-
-ADAPTAR A PARTIR DE AQUI:::
-As a team of cooking-lover engineers attending the Singapore Nanyang Technopreneurship Center *Startathon*, we decided to tackle this problem by developing an innovative and affordable solution: Smart Chef.
+The heart rate is a relatively easy-to-measure parameter that provides useful information about an individual's health status. Given its clinical applicability, it is used to assist in the diagnosis of common cardia diseases like arrhythmia and myocardial ischemia. As a team of biomedical engineers -and in the context of the Medical Device Design course at NTU, Singapore-, we decided to explore on how to achieve an accurate measurement and monitoring of the heart rate, developing also an innovative and original approach to display this parameter: Space Heart Attack.
 
 ## Concept
 
