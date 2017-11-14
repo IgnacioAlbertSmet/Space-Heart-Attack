@@ -1,12 +1,9 @@
 # Space Heart Attack
 
-Space Heart Attack is a game project which aims to develop a device capable of reading the player’s heart rate wirelessly and in real time, and then use this parameter to somehow play the game.
-
-MOVER DONDE PROCEDA: influence on the speed of the player in Space Heart Attack
-
-ADAPTAR: The project consists in a mobile app and a website that provide a job portal especially targeted for the elderly and/or retired citizens.
+Space Heart Attack is part of a class project which aims at using an individual's heart rate in real time to play a game. The system consists in a hardware device wirelessly connected to a smartphone running the game app. Here we present the main features as well as the first prototype.
 
 ## Motivations
+
 
 ADAPTAR: In the upcoming years, Singapore’s age average is expected to increase faster than that of any other nation. The aging population poses a serious sustainability challenge. Yet, MUCHA GENTE ESTA RETIRADA Y NO TRABAJA, DE LOS CUALES UN PORCENTAJE IMPORTANTE QUIERE TRABAJAR (53% no quiere, 25% si y ya trabaja, 22% si pero no trabaja), either because they NO TIENEN LAS HERRAMIENTAS PARA CONSEGUIR UN TRABAJO O NO LO QUE SEA.
 
@@ -71,7 +68,6 @@ ADAPTAR: This project won the second place of the GovTech Singapore Hackathon 20
 
 ## Credits
 
-ADAPTAR: 
-* Mobile app development: Alexis Pomares Pastor
-* Website development: Andres Lulli
-* Business plan and speech: Ignacio Albert Smet
+* Hardware and firmware development: Ang Zhi Ting, Avneet Kaur, Han Jun Guang, Nikita Jacob, Sun Xue, Zhang Xinxin, Zhang Yimei	
+* 3D design and printing: Ignacio Albert Smet
+* Game app development: Alexis Pomares Pastor
