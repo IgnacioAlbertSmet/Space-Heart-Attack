@@ -37,19 +37,18 @@ Early prototype:
 
 ## Game App
 
-ADAPTAR TODO:::
 Main features:
-* Various recipes (levels) accessed on a remote database
-* Online account management
-* Score and achievments sharing with friends
-* Real-time communication with the device
-* Feedback such as: "increase/decrease temperature", "give a stir" or "food is burning"
+* Online highscores database to compete with friends
+* Real-time heart rate monitoring via bluetooth connection
+* Diverse power-ups and enemies with various effects
+* Extreme game mode available
+* Several platforms supported: PC / Mac / Android
 
-The early prototype was developed for Android with Unity game engine and featured one full recipe. It is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.RetWork).
+The early prototype was developed for Android with Unity game engine and featured several users upon release on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SpaceHeartAttack).
 
 <p align="center">
-	<img src="doc/App_ui_2.png" height="400">
-	<img src="doc/App_ui_1.png" height="400">
+	<img src="doc/App_1.png" height="400">
+	<img src="doc/App_2.png" height="400">
 </p>
 
 ## What comes next
@@ -59,10 +58,6 @@ Additional features that could potentially be implemented:
 * Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
 * Advanced feedback to the user using fuzzy logic
 * Automatic ingredients ordering to local groceries with home delivery
-
-## Awards NOO---> Achievements INSTEAD
-
-ADAPTAR: This project won the second place of the GovTech Singapore Hackathon 2017, a 3-days event focused on idea development and implementation.
 
 ## Credits
 
