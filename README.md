@@ -4,7 +4,7 @@ Space Heart Attack is part of a class project which aims at using an individual'
 
 ## Motivations
 
-The heart rate is a relatively easy-to-measure parameter that provides useful information about an individual's health status. Given its clinical applicability, it is used to assist in the diagnosis of common cardia diseases like arrhythmia and myocardial ischemia. As a team of biomedical engineers -and in the context of the Medical Device Design course at NTU, Singapore-, we decided to explore on how to achieve an accurate measurement and monitoring of the heart rate, developing also an innovative and original approach to display this parameter: Space Heart Attack.
+The heart rate is a relatively easy-to-measure parameter that provides useful information about an individual's health status. Given its clinical applicability, it is used to assist in the diagnosis of common cardia diseases like arrhythmia and myocardial ischemia. As a team of biomedical engineers -and in the context of the Medical Device Design course at NTU, Singapore-, we decided to explore on how to achieve an accurate monitoring of the heart rate, developing also an innovative and original approach to display this parameter: Space Heart Attack.
 
 ## Concept
 
