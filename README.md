@@ -1,6 +1,6 @@
 # Space Heart Attack
 
-Space Heart Attack is part of a project which aims at using an individual's heart rate in real time to play a game. The system consists in a hardware device wirelessly connected to a smartphone running a game app. Here we present the main features as well as the first prototype.
+Space Heart Attack is part of a project which aims at using an individual's heart rate in real time to play a game. The system consists in a portable hardware device wirelessly connected to a smartphone running a game app. Here we present the main features as well as the first prototype.
 
 ## Motivations
 
@@ -8,6 +8,9 @@ The heart rate is a relatively easy-to-measure parameter that provides useful in
 
 ## Concept
 
+A portable electrocardiography (ECG) device carried by the user measures and sends the ECG signal via bluetooth connection. A computer running a LabVIEW program receives and processes the signal to extract the heart rate.
+
+, and then sends this parameter to a smartphone running a game app to play with.
 
 ADAPTAR TODO:::
 A smartphone app guides the user through several recipes, coming from different parts of the world and having diverse levels of difficulty. Step by step, the user receives feedback about his or her cooking technique in a fun and interactive way, allowing him or her to quickly be able to cook delicious food.
@@ -18,7 +21,7 @@ A small device is attached to the cooking pan or pot, and measures several param
 	<img src="doc/Technical_slide.jpg" width="750"/>
 </p>
 
-## Hardware Device
+### Hardware Device
 
 ADAPTAR TODO:::
 Main features:
@@ -34,11 +37,13 @@ Early prototype:
 * Bluetooth HC-05 module
 * Green, Orange and Red LEDs controlled by the smartphone
 
-## Digital processing???
+### LabVIEW program
 
-## Game App
+### Game App
 
+ESCRIBIRLO TODO SEGUIDO:
 Main features:
+* Pantallas de bestiario? y heartRateInformation?
 * Online highscores database to compete with friends
 * Real-time heart rate monitoring via bluetooth connection
 * Diverse power-ups and enemies with various effects
@@ -53,6 +58,8 @@ The early prototype was developed for Android with Unity game engine and feature
 </p>
 
 ## What comes next
+
+* Extract the heart rate from the ECG directly in the Arduino board or inside the game app, so there is no need for the LabVIEW intermediary
 
 ADAPTAR TODO:::
 Additional features that could potentially be implemented:
