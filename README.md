@@ -8,6 +8,7 @@ The heart rate is a relatively easy-to-measure parameter that provides useful in
 
 ## Concept
 
+
 ADAPTAR TODO:::
 A smartphone app guides the user through several recipes, coming from different parts of the world and having diverse levels of difficulty. Step by step, the user receives feedback about his or her cooking technique in a fun and interactive way, allowing him or her to quickly be able to cook delicious food.
 
