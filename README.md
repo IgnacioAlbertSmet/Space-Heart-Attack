@@ -8,36 +8,46 @@ The heart rate is a relatively easy-to-measure parameter that provides useful in
 
 ## Concept
 
-A portable electrocardiography (ECG) device carried by the user measures and sends the ECG signal via bluetooth connection. A computer running a LabVIEW program receives and processes the signal to extract the heart rate.
+A portable electrocardiography (ECG) device carried by the user measures and sends the ECG signal via bluetooth connection. A computer running a LabVIEW program receives and processes the signal to extract the heart rate, and then sends this parameter to a smartphone running a game app to play with.
 
-, and then sends this parameter to a smartphone running a game app to play with.
-
-ADAPTAR TODO:::
+EJEMPLO DEL SMARTCHEF DE PAUL:
 A smartphone app guides the user through several recipes, coming from different parts of the world and having diverse levels of difficulty. Step by step, the user receives feedback about his or her cooking technique in a fun and interactive way, allowing him or her to quickly be able to cook delicious food.
 
+EJEMPLO DEL SMARTCHEF DE PAUL:
 A small device is attached to the cooking pan or pot, and measures several parameters related to the food being cooked, such as temperature, CO2, or vibrations. This data is sent over Bluetooth to the smartphone, which analyses them, and convert them into an intuitive feedback. The device is removable and discreet, so it does not bother the user.
-
-<p align="center">
-	<img src="doc/Technical_slide.jpg" width="750"/>
-</p>
 
 ### Hardware Device
 
-ADAPTAR TODO:::
 Main features:
-* Three sensors measuring temperature, CO2 concentration, and acceleration
+* Three-lead system for biosignal measurement
+* Two-stage signal amplification: instrumentation and adjustable amplifiers
+* Band-pass analog filtering
 * Status LEDs
 * Battery powered
-* Optimized power consumption: BLE communication, low-power microcontroller, carefully selected sensors...
+* Optimized power consumption: BLE communication, low-power microcontroller, carefully selected electrodes...
+* Customized 3D-printed case to accommodate the entire device
 
 Early prototype:
+* Ag/AgCl electrodes
+* Printed circuit board (PCB)
 * Arduino UNO
-* Dallas DS18B20 thermocouple 
-* InvenSense MPU-6050 IMU
 * Bluetooth HC-05 module
-* Green, Orange and Red LEDs controlled by the smartphone
+* Green and Red LEDs controlled by LabVIEW
+
+<p align="center">
+	<img src="doc/Hardware_1.png" height="400">
+	3D-printed case with ECG-customized NTU logo
+	<img src="doc/Hardware_2.png" height="400">
+</p>
 
 ### LabVIEW program
+
+Main features:
+* VISA serial interface
+* Low-pass digital filtering
+* ECG waveform display
+* Peak detection for heart rate calculation
+* Abnormal heart rate detection with LED signaling
 
 ### Game App
 
@@ -59,9 +69,9 @@ The early prototype was developed for Android with Unity game engine and feature
 
 ## What comes next
 
-* Extract the heart rate from the ECG directly in the Arduino board or inside the game app, so there is no need for the LabVIEW intermediary
+* Obtain the heart rate from the ECG directly in the Arduino board or inside the game app, so there is no need for the LabVIEW intermediary
 
-ADAPTAR TODO:::
+EJEMPLO DEL SMARTCHEF DE PAUL:
 Additional features that could potentially be implemented:
 * Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
 * Advanced feedback to the user using fuzzy logic
