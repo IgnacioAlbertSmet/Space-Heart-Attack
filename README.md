@@ -27,11 +27,11 @@ Early prototype:
 * Arduino UNO
 * Bluetooth HC-05 module
 * Green and Red LEDs controlled by LabVIEW
+* PLA case with battery compartment and rotary hinge
 
 <p align="center">
 	<img src="doc/Hardware_1.png" height="200">
-	<br>3D-printed case with ECG-customized NTU logo
-	<img src="doc/Hardware_2.png" height="200">
+	<br><i><font size="5"> 3D-printed case with ECG-customized NTU logo </font></i>
 </p>
 
 ### LabVIEW program
