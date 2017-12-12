@@ -56,8 +56,8 @@ Main features:
 The early prototype was developed for Android with Unity game engine and featured several users upon release on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SpaceHeartAttack).
 
 <p align="center">
-	<img src="doc/App_1.png" height="400">
-	<img src="doc/App_2.png" height="400">
+	<img src="doc/App_1.png" width="433">
+	<img src="doc/App_2.png" width="433">
 </p>
 
 ## Credits
