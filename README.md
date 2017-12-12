@@ -30,7 +30,7 @@ Early prototype:
 
 <p align="center">
 	<img src="doc/Hardware_1.png" height="200">
-	3D-printed case with ECG-customized NTU logo
+	<br>3D-printed case with ECG-customized NTU logo
 	<img src="doc/Hardware_2.png" height="200">
 </p>
 
