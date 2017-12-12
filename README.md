@@ -62,6 +62,6 @@ The early prototype was developed for Android with Unity game engine and feature
 
 ## Credits
 
-* Hardware & firmware development: Ang Zhi Ting, Avneet Kaur, Han Jun Guang, Nikita Jacob, Sun Xue, Zhang Xinxin, Zhang Yimei	
-* 3D design & printing: Ignacio Albert Smet
+* Hardware and firmware development: Ang Zhi Ting, Avneet Kaur, Han Jun Guang, Nikita Jacob, Sun Xue, Zhang Xinxin, Zhang Yimei	
+* 3D design and printing: Ignacio Albert Smet
 * Game app development: Alexis Pomares Pastor
