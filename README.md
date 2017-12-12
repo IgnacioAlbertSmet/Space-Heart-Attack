@@ -29,9 +29,9 @@ Early prototype:
 * Green and Red LEDs controlled by LabVIEW
 
 <p align="center">
-	<img src="doc/Hardware_1.png" height="400">
+	<img src="doc/Hardware_1.png" height="200">
 	3D-printed case with ECG-customized NTU logo
-	<img src="doc/Hardware_2.png" height="400">
+	<img src="doc/Hardware_2.png" height="200">
 </p>
 
 ### LabVIEW program
