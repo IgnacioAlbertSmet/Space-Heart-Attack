@@ -45,9 +45,8 @@ Main features:
 
 ### Game App
 
-ESCRIBIRLO TODO SEGUIDO:
 Main features:
-* Pantallas de bestiario? y heartRateInformation?
+* Interactive screen with info about usual and abnormal measurements of the heart rate
 * Online highscores database to compete with friends
 * Real-time heart rate monitoring via bluetooth connection
 * Diverse power-ups and enemies with various effects
@@ -60,16 +59,6 @@ The early prototype was developed for Android with Unity game engine and feature
 	<img src="doc/App_1.png" height="400">
 	<img src="doc/App_2.png" height="400">
 </p>
-
-## What comes next
-
-* Obtain the heart rate from the ECG directly in the Arduino board or inside the game app, so there is no need for the LabVIEW intermediary
-
-EJEMPLO DEL SMARTCHEF DE PAUL:
-Additional features that could potentially be implemented:
-* Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
-* Advanced feedback to the user using fuzzy logic
-* Automatic ingredients ordering to local groceries with home delivery
 
 ## Credits
 
