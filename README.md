@@ -10,12 +10,6 @@ The heart rate is a relatively easy-to-measure parameter that provides useful in
 
 A portable electrocardiography (ECG) device carried by the user measures and sends the ECG signal via bluetooth connection. A computer running a LabVIEW program receives and processes the signal to extract the heart rate, and then sends this parameter to a smartphone running a game app to play with.
 
-EJEMPLO DEL SMARTCHEF DE PAUL:
-A smartphone app guides the user through several recipes, coming from different parts of the world and having diverse levels of difficulty. Step by step, the user receives feedback about his or her cooking technique in a fun and interactive way, allowing him or her to quickly be able to cook delicious food.
-
-EJEMPLO DEL SMARTCHEF DE PAUL:
-A small device is attached to the cooking pan or pot, and measures several parameters related to the food being cooked, such as temperature, CO2, or vibrations. This data is sent over Bluetooth to the smartphone, which analyses them, and convert them into an intuitive feedback. The device is removable and discreet, so it does not bother the user.
-
 ### Hardware Device
 
 Main features:
