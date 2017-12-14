@@ -30,9 +30,9 @@ Early prototype:
 * PLA case with battery compartment and rotary hinge
 
 <p align="center">
-	<img src="doc/Hardware_2.png" height="300">
 	<img src="doc/Hardware_1.png" height="300">
-	<br><i><font size="5"> Left: Test subject wearing the device. Right: 3D-printed case with ECG-customized NTU logo. </font></i>
+	<img src="doc/Hardware_2.png" height="300">
+	<br><i><font size="5"> Left: 3D-printed case with ECG-customized NTU logo.	Right: Test subject wearing the device with a harness. </font></i>
 </p>
 
 ### LabVIEW program
